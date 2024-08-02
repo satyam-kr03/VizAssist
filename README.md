@@ -1,4 +1,4 @@
-# ImageSpeak
+# VizAssist
 
 Application built for the ImageSpeak challenge at the YAMAHA AI Innovate 3.0 Hackathon held at IIT Mandi on 27th-28th April, 2024.
 
