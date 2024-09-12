@@ -41,7 +41,7 @@ class _HomePageState extends State<HomePage> {
 
   @override
   void initState() {
-    speak("Welcome to ImageSpeak. Double tap anywhere to enable camera");
+    speak("Welcome to VizAssist. Double tap anywhere to enable camera");
     super.initState();
   }
 
@@ -160,7 +160,7 @@ class _HomePageState extends State<HomePage> {
             Padding(
               padding: EdgeInsets.symmetric(horizontal: horizontalPadding),
               child: Text(
-                "IMAGE SPEAK",
+                "VizAssist",
                 style: TextStyle(
                   fontWeight: FontWeight.bold,
                   fontSize: 30,

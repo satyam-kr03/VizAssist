@@ -46,7 +46,7 @@ class _SplashState extends State<Splash> {
             ),
             SizedBox(height: 20),
             Text(
-              'Image Speak',
+              'VizAssist',
               style: TextStyle(
                 fontSize: 28,
                 fontWeight: FontWeight.bold,
